@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Legacy work
+
+⛏️Graphinius-Ext - graph extraction from images (2014)
+🌐Graphinius - generic graph library for the browser (2015+)
+🖼️Graphinius-Vis - 3D visualization of graphs extracted from images (2016)
+
 <!--
 **cassinius/cassinius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
