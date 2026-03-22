@@ -1,10 +1,15 @@
 ## Hi there 👋
 
+### 🔭 I’m currently working on
+
+- 🐯🔍 [TigerLens](https://github.com/Lemontiger26/lens) - Agents with a face — and opinions
+
 ### Legacy work
 
-- ⛏️Graphinius-Ext - graph extraction from images (2014)
-- 🌐Graphinius - generic graph library for the browser (2015+)
-- 🖼️Graphinius-Vis - 3D visualization of graphs extracted from images (2016)
+- ⛏️ [Graphinius-Ext](https://github.com/cassinius/graphinius-ext) - graph extraction from images (2014)
+- 🌐 [Graphinius](https://github.com/cassinius/graphinius) - generic graph library for the browser (2015+)
+- 🖼️ [Graphinius-Vis](https://github.com/cassinius/graphinius-vis) - 3D visualization of graphs extracted from images (2016)
+- 👤 [AnonymizationJS](https://github.com/cassinius/AnonymizationJs) - run k-anonymization directly in the browser (2016)
 
 <!--
 **cassinius/cassinius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
