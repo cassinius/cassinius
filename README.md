@@ -2,9 +2,8 @@
 
 ### 🔭 I’m currently working on
 
-- 🤹 [Pikkit](https://github.com/cassinius/pikkit) - Atomic skill recommender per task & repository
-- 🐯🌊 [TigerFlows](https://github.com/Lemontiger26/flows) - Keyboard-first daily logs that learn from your history
-- 🐯🔍 [TigerLens](https://github.com/Lemontiger26/lens) - Agents with a face — and opinions
+- 🐯🔀 [TigerTrack](https://github.com/Lemontiger26/track-swift) - Local-AI powered timesheet automation.
+- 🐯🌊 [TigerFlows](https://github.com/Lemontiger26/flows) - Markdown speed. Database power. Zero cloud.
 
 ### Legacy work
 
