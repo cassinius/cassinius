@@ -2,8 +2,8 @@
 
 ### 🔭 I’m currently working on
 
-- 🐯🔀 [TigerTrack](https://github.com/Lemontiger26/track-swift) - From commits to clarity.
-- 🐯🌊 [TigerFlows](https://github.com/Lemontiger26/flows) - Markdown speed. Database brain.
+- 🐯🔀 [TigerTrack](https://github.com/Lemontiger26/track-ts) - From commits to clarity.
+- 🐯🌊 [TigerFlows](https://github.com/Lemontiger26/tigerflows) - Markdown speed. Database brain.
 
 ### Legacy work
 
