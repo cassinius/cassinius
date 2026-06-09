@@ -2,8 +2,8 @@
 
 ### 🔭 I’m currently working on
 
-- 🐯🔀 [TigerTrack](https://github.com/Lemontiger26/track-swift) - Local-AI powered timesheet automation.
-- 🐯🌊 [TigerFlows](https://github.com/Lemontiger26/flows) - Markdown speed. Database power. Zero cloud.
+- 🐯🔀 [TigerTrack](https://github.com/Lemontiger26/track-swift) - From commits to clarity.
+- 🐯🌊 [TigerFlows](https://github.com/Lemontiger26/flows) - Markdown speed. Database brain.
 
 ### Legacy work
 
