@@ -2,10 +2,10 @@
 
 ### 🔭 I’m currently working on
 
-- 🐯🔀 [TigerTrack](https://github.com/Lemontiger26/track) - From commits to clarity.
-- 🐯📅 [TigerDays](https://github.com/Lemontiger26/days) - Daily capture. Living history.
+- 🐯💰 [TigerTrack](https://github.com/Lemontiger26/track) - From commits to clarity.
 - 🐯🧵 [TigerThread](https://github.com/Lemontiger26/thread) - Conversation 2 workspace.
-- 🐯🌊 [TigerFlows](https://github.com/Lemontiger26/tigerflows) - Markdown speed. Database brain.
+- 🐯🧠 [TigerSkills](https://github.com/Lemontiger26/skills) - Skills mapped. Ready to grow?
+- 🐯🌊 [TigerFlows](https://github.com/Lemontiger26/flows) - Markdown speed. Database brain.
 
 ### Legacy work
 
