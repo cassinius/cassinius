@@ -2,6 +2,7 @@
 
 ### 🔭 I’m currently working on
 
+- 🐯🤖 [TigerGrid](https://github.com/Lemontiger26/grid) - Local agent contribution graphs.
 - 🐯💰 [TigerTrack](https://github.com/Lemontiger26/track) - From commits to clarity.
 - 🐯🧵 [TigerThread](https://github.com/Lemontiger26/thread) - Conversation 2 workspace.
 - 🐯🧠 [TigerSkills](https://github.com/Lemontiger26/skills) - Skills mapped. Ready to grow?
